@@ -6,9 +6,9 @@ export default function Nav() {
 
         <div className="col-3">
             <div className="list-group">
-                <Link href="/" className="list-group-item list-group-item-action">
+                <link href="/" className="list-group-item list-group-item-action">
                     Home
-                </Link>
+                </link>
                 <link href="/about.html" className="list-group-item list-group-item-action">
                     About Us
                 </link>
